@@ -1,0 +1,50 @@
+# Python virtual environment
+env/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Node modules (si usamos después)
+node_modules/
+package-lock.json
+
+# Archives originales (ya convertidos a .md)
+*.docx
+*.pdf
+
+# Archivos de sistema
+Thumbs.db
